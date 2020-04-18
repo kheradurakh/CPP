@@ -1,0 +1,2 @@
+g++ tictactoe.cpp
+pause
